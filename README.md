@@ -1,0 +1,2 @@
+# ComicVine-API
+Collaborative project
