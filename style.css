@@ -5,10 +5,10 @@
 }
 
 .displayData {
-	display: "block";
+	display: block;
 }
 
 .displayTitle {
-	font-weight: "bold";
-	display: "block";
+	font-weight: bold;
+	display: block;
 }
