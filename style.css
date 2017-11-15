@@ -1,0 +1,14 @@
+
+.displayItemBlock {
+	padding: 1em;
+	margin: 1em;
+}
+
+.displayData {
+	display: "block";
+}
+
+.displayTitle {
+	font-weight: "bold";
+	display: "block";
+}
